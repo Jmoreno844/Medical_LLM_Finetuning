@@ -1,0 +1,46 @@
+[
+    {
+        "input": "¿Qué es el sistema endocrino y cuál es su función principal?",
+        "expected_output": "El sistema endocrino es una red de glándulas y órganos que producen, almacenan y secretan hormonas. Las hormonas son sustancias químicas que llevan mensajes por todo el cuerpo, desempeñando un papel clave en la regulación de una serie de funciones corporales, como el metabolismo, el crecimiento y desarrollo, el funcionamiento del sistema inmunológico y la regulación del estado de ánimo y las emociones."
+    },
+    {
+        "input": "¿Qué es la diabetes y cómo está relacionada con el sistema endocrino?",
+        "expected_output": "La diabetes es una enfermedad crónica en la que el cuerpo no puede regular los niveles de azúcar en la sangre correctamente. Esto puede ser debido a que el páncreas no produce suficiente insulina (una hormona que ayuda a las células a absorber glucosa), como en la diabetes tipo 1, o a que el cuerpo no puede usar la insulina de manera efectiva, como en la diabetes tipo 2. Ambos tipos de diabetes son trastornos del sistema endocrino."
+    },
+    {
+        "input": "¿Qué hormonas produce la glándula tiroides y qué funciones desempeñan?",
+        "expected_output": "La glándula tiroides produce principalmente dos hormonas: triyodotironina (T3) y tiroxina (T4). Estas hormonas juegan un papel crucial en el metabolismo, ayudando a regular la velocidad a la que el cuerpo usa la energía. También contribuyen al crecimiento y desarrollo durante la infancia. El desequilibrio en la producción de estas hormonas puede llevar a condiciones como el hipotiroidismo (producción insuficiente) o el hipertiroidismo (producción excesiva)."
+    },
+    {
+        "input": "¿Cómo se diagnostica y se trata el hipotiroidismo?",
+        "expected_output": "El hipotiroidismo se diagnostica generalmente a través de un análisis de sangre que mide los niveles de tirotropina (TSH), una hormona que estimula la tiroides para que produzca sus hormonas. Si los niveles de TSH están altos, puede indicar que la tiroides no está produciendo suficientes hormonas. El tratamiento principal para el hipotiroidismo es la terapia de reemplazo hormonal con levotiroxina, una forma sintética de la tiroxina (T4)."
+    },
+    {
+        "input": "¿Qué es el cortisol y cómo está relacionado con el estrés?",
+        "expected_output": "El cortisol es una hormona producida por las glándulas suprarrenales, que se ubican en la parte superior de los riñones. Es conocida como la 'hormona del estrés' porque su liberación se incrementa en respuesta al estrés. El cortisol tiene múltiples funciones en el cuerpo, incluyendo la regulación del metabolismo de los carbohidratos, proteínas y grasas, y la supresión de las respuestas inflamatorias. Sin embargo, niveles crónicamente elevados de cortisol pueden tener efectos negativos en la salud, como el aumento del riesgo de enfermedades cardíacas y dificultades en el aprendizaje y la memoria."
+    },
+    {
+        "input": "¿Cuál es la función principal de los glóbulos rojos en la sangre?",
+        "expected_output": "Transportar oxígeno desde los pulmones a los tejidos del cuerpo."
+    },
+    {
+        "input": "¿Qué es la hipertensión arterial?",
+        "expected_output": "Es una condición médica en la que la presión arterial en las arterias está persistentemente elevada."
+    },
+    {
+        "input": "¿Cuál es el principal órgano responsable de la producción de insulina?",
+        "expected_output": "El páncreas."
+    },
+    {
+        "input": "¿Cuál es la función principal de los glóbulos rojos en el cuerpo humano?",
+        "expected_output": "Transportar oxígeno desde los pulmones hacia los tejidos y llevar dióxido de carbono de vuelta a los pulmones."
+    },
+    {
+        "input": "¿Qué es la hipertensión arterial?",
+        "expected_output": "Es una condición médica en la que la presión arterial en las arterias es persistentemente elevada."
+    },
+    {
+        "input": "¿Cuál es el órgano responsable de la producción de insulina?",
+        "expected_output": "El páncreas."
+    }
+]
