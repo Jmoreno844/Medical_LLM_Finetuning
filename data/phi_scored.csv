@@ -1,0 +1,70 @@
+input,expected_output,phi_output,phi_score,result
+¿Qué es el sistema endocrino y cuál es su función principal?,"El sistema endocrino es una red de glándulas y órganos que producen, almacenan y secretan hormonas. Las hormonas son sustancias químicas que llevan mensajes por todo el cuerpo, desempeñando un papel clave en la regulación de una serie de funciones corporales, como el metabolismo, el crecimiento y desarrollo, el funcionamiento del sistema inmunológico y la regulación del estado de ánimo y las emociones."," sistema endocrino es una colección de glandes que producen hormonas, que son mensajeros químicos que viajan por el torrente sanguíneo para regular las actividades de las células y órganos del cuerpo.
+
+La función principal del sistema endocrino es mantener la homeostasis dentro del cuerpo. Esto se logra a través de la regulación de varios procesos fisiológicos, como el metabolismo, el crecimiento y el desarrollo, la reproducción y la respuesta al estrés.
+
+Los principales órganos del sistema endocrino incluyen las glándulas hipófisis, tiroides, paratiroides, suprarrenales, páncreas y gónadas (ovarios y testículos). Cada una de estas glándulas produce hormonas específicas que desempeñan roles cruciales en la regulación de las funciones corporales.
+
+En resumen, el sistema endocrino es esencial para mantener la homeostasis y la salud general del cuerpo, asegurando que",0.7355062898754114,PASÓ
+¿Qué es la diabetes y cómo está relacionada con el sistema endocrino?,"La diabetes es una enfermedad crónica en la que el cuerpo no puede regular los niveles de azúcar en la sangre correctamente. Esto puede ser debido a que el páncreas no produce suficiente insulina (una hormona que ayuda a las células a absorber glucosa), como en la diabetes tipo 1, o a que el cuerpo no puede usar la insulina de manera efectiva, como en la diabetes tipo 2. Ambos tipos de diabetes son trastornos del sistema endocrino."," diabetes es una enfermedad crónica que afecta la capacidad del cuerpo para regular los niveles de glucosa (azúcar) en la sangre. La glucosa es la principal fuente de energía para las células del cuerpo, y la regulación de sus niveles en la sangre es un proceso complejo que involucra a varios órganos y sistemas, especialmente el sistema endocrino.
+
+El sistema endocrino es un conjunto de glándulas que producen y liberan hormonas, que son mensajeros químicos que viajan por el torrente sanguíneo para afectar a las células y órganos específicos. Algunas de las glándulas endocrinas más importantes son la hipófisis (que controla la función de otras glándulas), la tiroides, las glándulas suprarrenales y las glándulas paratiroides.
+
+La diabetes está relacionada con el sistema endocrino porque las hormonas producidas por las glándulas endocrinas desempeñan un",0.6640028434875977,FALLÓ
+¿Qué hormonas produce la glándula tiroides y qué funciones desempeñan?,"La glándula tiroides produce principalmente dos hormonas: triyodotironina (T3) y tiroxina (T4). Estas hormonas juegan un papel crucial en el metabolismo, ayudando a regular la velocidad a la que el cuerpo usa la energía. También contribuyen al crecimiento y desarrollo durante la infancia. El desequilibrio en la producción de estas hormonas puede llevar a condiciones como el hipotiroidismo (producción insuficiente) o el hipertiroidismo (producción excesiva).","Answer
+La glándula tiroides produce principalmente dos hormonas principales: la hormona estimulante del crecimiento (GH) y la hormona estimulante del tiroides (TSH).
+
+1. Hormona Estimulante del Crecimiento (GH): Esta hormona es producida por las células somatotropos en la glándula pituitaria. El GH juega un papel crucial en el crecimiento, desarrollo y reparación de tejidos. También ayuda a regular el metabolismo de carbohidratos, proteínas y grasas.
+
+2. Hormona Estimulante del Tiroides (TSH): TSH es producida por las células tirotropos en la glándula pituitaria. TSH regula la función de la glándula tiroides, estimulando la producción y liberación de hormonas tiroideas (T3 y T4). Estas hormonas tiroideas desempeñan un papel crucial en el metabolismo, la regulación de",0.18930702612327568,FALLÓ
+¿Cómo se diagnostica y se trata el hipotiroidismo?,"El hipotiroidismo se diagnostica generalmente a través de un análisis de sangre que mide los niveles de tirotropina (TSH), una hormona que estimula la tiroides para que produzca sus hormonas. Si los niveles de TSH están altos, puede indicar que la tiroides no está produciendo suficientes hormonas. El tratamiento principal para el hipotiroidismo es la terapia de reemplazo hormonal con levotiroxina, una forma sintética de la tiroxina (T4)."," hipotiroidismo, una condición en la que la glándula tiroides no produce suficiente hormona tiroxina (T4), puede diagnosticarse y tratarse de manera efectiva. Aquí hay un enfoque paso a paso para el diagnóstico y tratamiento:
+
+### Diagnóstico del Hipotiroidismo
+
+1. **Examen Clínico**: Los proveedores de atención médica comienzan con un examen físico, buscando signos de fatiga, aumento de peso, piel seca y otros síntomas.
+
+2. **Historia Clínica**: Los proveedores de atención médica recopilarán una historia clínica detallada, incluyendo preguntas sobre síntomas, antecedentes familiares y cualquier medicamento recetado.
+
+3. **Pruebas de Laboratorio**:
+   - **Niveles de TSH (Hormona Estimulante de la Tiroides)**: Niveles elevados de TSH sugieren hipotiroidismo prim",0.646775566168306,FALLÓ
+¿Qué es el cortisol y cómo está relacionado con el estrés?,"El cortisol es una hormona producida por las glándulas suprarrenales, que se ubican en la parte superior de los riñones. Es conocida como la 'hormona del estrés' porque su liberación se incrementa en respuesta al estrés. El cortisol tiene múltiples funciones en el cuerpo, incluyendo la regulación del metabolismo de los carbohidratos, proteínas y grasas, y la supresión de las respuestas inflamatorias. Sin embargo, niveles crónicamente elevados de cortisol pueden tener efectos negativos en la salud, como el aumento del riesgo de enfermedades cardíacas y dificultades en el aprendizaje y la memoria."," cortisol es una hormona producida por las glándulas suprarrenales, que se encuentran encima de los riñones. El cortisol juega un papel crucial en la respuesta al estrés del cuerpo.
+
+Cuando el cuerpo experimenta estrés, el hipotálamo, una parte del cerebro, envía una señal al hipófisis, otra parte del cerebro. La hipófisis responde enviando hormonas llamadas adrenocorticotropina (ACTH).
+
+ACTH viaja a través del torrente sanguíneo hasta las glándulas suprarrenales, donde estimula la producción y liberación de cortisol.
+
+El cortisol tiene varias funciones importantes:
+
+1. Regula la respuesta al estrés: el cortisol ayuda a preparar al cuerpo para la acción o la fuga, a menudo referida como la respuesta de lucha o huida.
+
+2. Regula el metabolismo: el cortisol ayuda a regular el metabolismo de carboh",0.6622459331201854,FALLÓ
+¿Cuál es la función principal de los glóbulos rojos en la sangre?,Transportar oxígeno desde los pulmones a los tejidos del cuerpo.,"Answer
+La función principal de los glóbulos rojos (eritrocitos) en la sangre es transportar oxígeno desde los pulmones hasta los tejidos y órganos del cuerpo. Los glóbulos rojos tienen una alta concentración de hemoglobina, una proteína que se une al oxígeno. Una vez que los glóbulos rojos alcanzan los tejidos, la hemoglobina libera el oxígeno, que es utilizado por las células para producir energía a través de la respiración celular. Después de liberar el oxígeno, los glóbulos rojos reciclan el dióxido de carbono producido por las células y lo transportan de regreso a los pulmones, donde se elimina del cuerpo.
+
+En resumen, la función principal de los glóbulos rojos es transportar oxígeno a los tejidos y reciclar el dióxido de carbono para su eliminación.",0.6146318088065967,FALLÓ
+¿Qué es la hipertensión arterial?,Es una condición médica en la que la presión arterial en las arterias está persistentemente elevada.,"pertensión arterial, comúnmente conocida como presión arterial alta, es una condición en la que la presión arterial es más alta de lo normal. La presión arterial es la fuerza ejercida por el sangre mientras fluye a través de las arterias.
+
+La presión arterial normal se mide en milímetros de mercurio (mmHg) y se registra como dos números: la presión sistólica (presión arterial cuando el corazón late) y la presión diastólica (presión arterial cuando el corazón está en reposo entre latidos).
+
+Un rango típico para la presión arterial en adultos sanos es de alrededor de 120/80 mmHg. Cuando la presión arterial está por encima de 140/90 mmHg, se considera que la persona tiene hipertensión.
+
+La hipertensión arterial es significativa porque es un factor de riesgo importante para enfermedades cardiovasculares, incluy",0.6149508331937498,FALLÓ
+¿Cuál es el principal órgano responsable de la producción de insulina?,El páncreas.,"Answer
+El principal órgano responsable de la producción de insulina es el páncreas. Dentro del páncreas, las células beta en el páncreas producen insulina. La insulina es una hormona crucial que ayuda a regular los niveles de glucosa en la sangre.",0.733616496396355,PASÓ
+¿Cuál es la función principal de los glóbulos rojos en el cuerpo humano?,Transportar oxígeno desde los pulmones hacia los tejidos y llevar dióxido de carbono de vuelta a los pulmones.,"Answer
+La función principal de los glóbulos rojos, también conocidos como eritrocitos, en el cuerpo humano es transportar oxígeno desde los pulmones a los tejidos y órganos del cuerpo. Los glóbulos rojos tienen una alta concentración de hemoglobina, una proteína que se une al oxígeno. Cuando los glóbulos rojos pasan por los pulmones, el oxígeno se une a la hemoglobina. Luego, los glóbulos rojos viajan por todo el cuerpo, liberando oxígeno a los tejidos y órganos. Después de entregar el oxígeno, los glóbulos rojos reciclan el dióxido de carbono, un producto de descomposición de la respiración celular, de vuelta a los pulmones para ser exhalado. Este proceso es esencial para mantener la vida y el funcionamiento adecuado de los tejidos y órganos del cuerpo.",0.73237036302396,PASÓ
+¿Qué es la hipertensión arterial?,Es una condición médica en la que la presión arterial en las arterias es persistentemente elevada.,"pertensión arterial, comúnmente conocida como presión arterial alta, es una condición en la que la presión arterial es más alta de lo normal. La presión arterial es la fuerza ejercida por el sangre mientras fluye a través de las arterias.
+
+La presión arterial normal se mide en milímetros de mercurio (mmHg) y se registra como dos números: la presión sistólica (presión arterial cuando el corazón late) y la presión diastólica (presión arterial cuando el corazón está en reposo entre latidos).
+
+Un rango típico para la presión arterial en adultos sanos es de alrededor de 120/80 mmHg. Cuando la presión arterial está por encima de 140/90 mmHg, se considera que la persona tiene hipertensión.
+
+La hipertensión arterial es significativa porque es un factor de riesgo importante para enfermedades cardiovasculares, incluy",0.6359508267324254,FALLÓ
+¿Cuál es el órgano responsable de la producción de insulina?,El páncreas.,"Answer
+El órgano responsable de la producción de insulina es el páncreas. El páncreas produce insulina, una hormona que regula los niveles de glucosa en la sangre.
+
+Cuando los niveles de glucosa en la sangre aumentan, por ejemplo después de una comida, el páncreas libera insulina. La insulina facilita la absorción de glucosa por las células del cuerpo, lo que ayuda a reducir los niveles de glucosa en la sangre a un rango normal.
+
+En condiciones como la diabetes mellitus, la capacidad del páncreas para producir insulina o la respuesta del cuerpo a la insulina puede estar comprometida, lo que lleva a niveles anormales de glucosa en la sangre.
+
+Es importante mantener un estilo de vida saludable y, si es necesario, seguir las recomendaciones médicas para la gestión de la diabetes o cualquier otra condición relacionada con la glucosa",0.7468333196162699,PASÓ
